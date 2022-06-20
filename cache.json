@@ -185,7 +185,7 @@
           "description": "In this article, Andrii shares his approach to managing tables in Figma in an easier, more streamlined way when there is a need to support different screen resolutions, change the order of columns, and use real-life content.",
           "link": "https://smashingmagazine.com/2022/06/easy-build-support-tables-figma/",
           "publishedOn": "2022-06-17T09:00:00.000Z",
-          "wordCount": 4596,
+          "wordCount": 4594,
           "title": "How To Easily Build And Support Tables In Figma",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/47932465-87b0-41aa-97c3-4a2690860dd8/easy-build-support-tables-figma.jpg",
@@ -200,7 +200,7 @@
           "description": "All the data in the world won’t do anyone any good if we can’t make sense of it. Or better yet, make it sing. Here are some stunning examples of data visualization in the wild, and some pointers on how to start making your own.",
           "link": "https://smashingmagazine.com/2022/06/web-design-done-well-delightful-data-visualization-examples/",
           "publishedOn": "2022-06-16T09:00:00.000Z",
-          "wordCount": 4238,
+          "wordCount": 4138,
           "title": "Web Design Done Well: Delightful Data Visualization Examples",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6b1a5a7a-d478-4c0c-b4c8-782bf7fa7f42/web-design-done-well-delightful-data-visualization-examples.jpg",
@@ -275,7 +275,7 @@
           "description": "In this article, Thomas Bohm explains ways to test typefaces and other typographic issues. Though this article is slightly high-end and academic, fear not. The content will be interesting, especially for committed typeface designers and typographers. If you like complex issues and problems, this is for you.",
           "link": "https://smashingmagazine.com/2022/06/measuring-performance-typefaces-users-part2/",
           "publishedOn": "2022-06-10T08:00:00.000Z",
-          "wordCount": 6572,
+          "wordCount": 6682,
           "title": "Measuring The Performance Of Typefaces For Users (Part 2)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/22bde778-9f2e-45d3-97cd-ae5eedf4d0c0/measuring-performance-typaces-users-part2-card.jpg",
@@ -305,7 +305,7 @@
           "description": "CSS color-mix is an experimental function that blends two colors and can be used to simplify color palettes. You can define a color palette and theme without too much effort using CSS color-mix().",
           "link": "https://smashingmagazine.com/2022/06/simplify-color-palette-css-color-mix/",
           "publishedOn": "2022-06-08T09:00:00.000Z",
-          "wordCount": 4551,
+          "wordCount": 4547,
           "title": "Simplify Your Color Palette With CSS Color-Mix()",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/57b9844c-e3aa-48e2-9d72-3938dbf553d0/simplify-color-palette-css-color-mix-sharing-card.jpg",
@@ -320,7 +320,7 @@
           "description": "Computer technologies have simplified the process of recording historical events, technological breakthroughs, contemporary art, and everyday life. However, the notion of digital archiving can be deceptive. Often our technical footprints are carved in sand rather than stone.",
           "link": "https://smashingmagazine.com/2022/06/digital-museums-digital-history/",
           "publishedOn": "2022-06-07T09:30:00.000Z",
-          "wordCount": 4661,
+          "wordCount": 4658,
           "title": "Digital Museums For Digital History",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/87001d28-4e45-46cd-8a5c-be63cc0a413c/digital-museums-digital-history.jpg",
@@ -335,7 +335,7 @@
           "description": "In this article, Sam Poder explores how Prisma integrates with the Jamstack and why it’s a great solution for Serverless databases in JavaScript or TypeScript-based projects.",
           "link": "https://smashingmagazine.com/2022/06/case-prisma-jamstack/",
           "publishedOn": "2022-06-06T09:00:00.000Z",
-          "wordCount": 4315,
+          "wordCount": 4318,
           "title": "The Case For Prisma In The Jamstack",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/30c31583-7e46-4566-b2d3-bef54dd64152/case-prisma-jamstack.jpg",
@@ -350,7 +350,7 @@
           "description": "This is the first part of this article, written especially for typeface designers and typographers. See how typefaces work, how to test them, and other broader typographic issues.",
           "link": "https://smashingmagazine.com/2022/06/measuring-performance-typefaces-users-part1/",
           "publishedOn": "2022-06-03T10:00:00.000Z",
-          "wordCount": 6695,
+          "wordCount": 6595,
           "title": "Measuring The Performance Of Typefaces For Users (Part 1)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/63e5266a-c3c0-42f8-9d26-79a729c3db3f/measuring-performance-typaces-users-part1-card.jpg",
@@ -365,7 +365,7 @@
           "description": "In this tutorial, you will learn how to create a group chat app. You will build a backend app using Node.js that will make group chats, authorize chat participants, and maintain sessions for them.",
           "link": "https://smashingmagazine.com/2022/06/build-group-chat-app-vanillajs-twilio-nodejs/",
           "publishedOn": "2022-06-02T09:30:00.000Z",
-          "wordCount": 6649,
+          "wordCount": 6653,
           "title": "How To Build A Group Chat App With Vanilla JS, Twilio And Node.js",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fd5325c3-f376-4565-9ce4-a3798d7d33b3/build-group-chat-app-vanillajs-twilio-nodejs.jpg",
@@ -380,7 +380,7 @@
           "description": "In this article, Ken Harker explains what third-party resource requests really are and which common optimization strategies can help reduce the impact on the user experience. By carefully considering how third-party requests will fit into your website during the design stage, you’ll be able to avoid the most significant negative impacts.",
           "link": "https://smashingmagazine.com/2022/06/dont-sink-website-third-parties/",
           "publishedOn": "2022-06-01T10:00:00.000Z",
-          "wordCount": 6571,
+          "wordCount": 6669,
           "title": "Don’t Sink Your Website With Third Parties",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/65099ffa-f954-430f-992a-8078a8331802/dont-sink-website-third-parties.jpg",
@@ -395,7 +395,7 @@
           "description": "What could be a better way to welcome June than with some colorful inspiration? Well, we might have something for you: wallpapers created with love by artists and designers from across the globe.",
           "link": "https://smashingmagazine.com/2022/05/desktop-wallpaper-calendars-june-2022/",
           "publishedOn": "2022-05-31T12:30:00.000Z",
-          "wordCount": 4990,
+          "wordCount": 5096,
           "title": "Expand Your Horizons (June 2022 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1c6a9a31-4619-4c93-b9ea-65b5f50082cd/june-22-create-your-own-path-preview-opt.png",
@@ -425,7 +425,7 @@
           "description": "How many browser DevTools panels do you commonly use in your day-to-day web development? One? Three? Probably not that many more. In this article, Patrick Brosset shines the spotlight on a number of tools that people don’t use or even know about. Let’s dive in!",
           "link": "https://smashingmagazine.com/2022/05/whats-that-dev-tool/",
           "publishedOn": "2022-05-30T13:30:00.000Z",
-          "wordCount": 5378,
+          "wordCount": 5276,
           "title": "What’s That (Dev) Tool?",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6a1e15f7-a8bd-4593-b880-c9857e673516/whats-that-dev-tool.jpg",
@@ -440,7 +440,7 @@
           "description": "In this article, Vijay describes his learning experiences during the design stages of creating his 3dicons image library (a free library for product screens, social media posts and marketing campaigns), which you can download and use for free.",
           "link": "https://smashingmagazine.com/2022/05/3dicons-open-source-library-case-study-download/",
           "publishedOn": "2022-05-27T09:00:00.000Z",
-          "wordCount": 5020,
+          "wordCount": 5018,
           "title": "Open-Source 3dicons Library: Case Study And Free Downloads",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/af9b67f7-433c-421a-8fe6-14878b3f884d/3dicons-open-source-library-case-study-download.jpg",
@@ -455,7 +455,7 @@
           "description": "From working with design handoffs to supporting custom themes in a design system, the CSS `color-contrast()` function can become a cornerstone for developers by enforcing accessible UIs.",
           "link": "https://smashingmagazine.com/2022/05/accessible-design-system-themes-css-color-contrast/",
           "publishedOn": "2022-05-26T09:30:00.000Z",
-          "wordCount": 4831,
+          "wordCount": 4835,
           "title": "Manage Accessible Design System Themes With CSS Color-Contrast()",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1fd91360-3b48-4a72-9280-c778dc5dc53d/manage-accessible-design-system-themes-with-css-color-contrast-card-v2.jpg",
@@ -470,7 +470,7 @@
           "description": "In this article, Frank Joseph explains both weak and strong references in JavaScript, as well as the concept of reachability. Let’s dig in!",
           "link": "https://smashingmagazine.com/2022/05/understanding-weak-reference-javascript/",
           "publishedOn": "2022-05-25T09:30:00.000Z",
-          "wordCount": 4066,
+          "wordCount": 4070,
           "title": "Understanding Weak Reference In JavaScript",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/44544ece-23b3-48cb-b2bf-0183a32d2bee/understanding-weak-reference-javascript.jpg",
@@ -485,7 +485,7 @@
           "description": "This article is a case study of how the platformOS team has researched, developed, and iteratively adjusted their onboarding processes over more than three years to eventually create the multiple award winning developer experience they provide today.",
           "link": "https://smashingmagazine.com/2022/05/developing-award-winning-onboarding-process-case-study/",
           "publishedOn": "2022-05-24T11:30:00.000Z",
-          "wordCount": 8278,
+          "wordCount": 8290,
           "title": "Developing An Award-Winning Onboarding Process (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/69a59d30-3186-49e9-943d-a023f7bf1f29/developing-award-winning-onboarding-process-case-study.jpg",
@@ -500,7 +500,7 @@
           "description": "CSS is constantly evolving, and some cool and useful properties either go completely unnoticed or are not talked about as much as others for some reason or another. In this article, we’ll cover a fraction of those CSS properties and selectors.",
           "link": "https://smashingmagazine.com/2022/05/lesser-known-underused-css-features-2022/",
           "publishedOn": "2022-05-23T09:30:00.000Z",
-          "wordCount": 5739,
+          "wordCount": 5743,
           "title": "Lesser-Known And Underused CSS Features In 2022",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9c50c872-d96b-41ae-8289-25b78c7f279f/lesser-known-underused-css-features-2022.jpg",
