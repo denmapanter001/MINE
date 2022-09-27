@@ -12,12 +12,22 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=373403",
+          "author": "Temani Afif",
+          "description": "The wave is probably one of the most difficult shapes to make in CSS. We always try to approximate it with properties like border-radius and lots of magic numbers until we get something that feels kinda close. And that’s before …\nHow to Create Wavy Shapes & Patterns in CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/how-to-create-wavy-shapes-patterns-in-css/",
+          "publishedOn": "2022-09-26T13:13:30.000Z",
+          "wordCount": 4304,
+          "title": "How to Create Wavy Shapes & Patterns in CSS",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373403"
+        },
+        {
           "id": "https://css-tricks.com/?p=373057",
           "author": "Ganesh Dahal",
           "description": "If we browse the WordPress theme directory, a majority of themes showcase cover images. It is a feature in popular demand. The cover page trend is true even in the block theme directory screenshots as well.\nLet’s consider the …\nHow To Customize WordPress Block Theme Cover Templates with Dynamic Post Feature Images originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/how-to-customize-wordpress-block-theme-cover-templates-with-dynamic-post-feature-images/",
           "publishedOn": "2022-09-23T16:15:19.000Z",
-          "wordCount": 3482,
+          "wordCount": 3528,
           "title": "How To Customize WordPress Block Theme Cover Templates with Dynamic Post Feature Images",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373057"
         },
@@ -37,7 +47,7 @@
           "description": "SVG is the best format for icons on a website, there is no doubt about that. It allows you to have sharp icons no matter the screen pixel density, you can change the styles of the SVG on hover …\nHow I Made an Icon System Out of CSS Custom Properties originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/how-i-made-an-icon-system-out-of-css-custom-properties/",
           "publishedOn": "2022-09-22T15:17:21.000Z",
-          "wordCount": 2133,
+          "wordCount": 2184,
           "title": "How I Made an Icon System Out of CSS Custom Properties",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373111"
         },
@@ -57,7 +67,7 @@
           "description": "On one hand, creating simple checkered backgrounds with CSS is easy. On the other hand, though, unless we are one of the CSS-gradient-ninjas, we are kind of stuck with basic patterns.\nAt least that’s what I thought while staring at …\nCSS Checkerboard Background… But With Rounded Corners and Hover Styles originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/css-checkerboard-background-but-with-rounded-corners-and-hover-styles/",
           "publishedOn": "2022-09-20T13:19:24.000Z",
-          "wordCount": 1515,
+          "wordCount": 1572,
           "title": "CSS Checkerboard Background… But With Rounded Corners and Hover Styles",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373167"
         },
@@ -87,7 +97,7 @@
           "description": "Using CSS, it’s possible to prevent users from selecting text within an element using user-select: none. Now, it’s understandable why doing so might be considered “controversial”. I mean, should we be disabling standard user behaviors? Generally speaking, no, we …\nWhen is it OK to Disable Text Selection? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/when-is-it-ok-to-disable-text-selection/",
           "publishedOn": "2022-09-14T13:03:04.000Z",
-          "wordCount": 3499,
+          "wordCount": 3614,
           "title": "When is it OK to Disable Text Selection?",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373100"
         },
@@ -150,16 +160,6 @@
           "wordCount": 2275,
           "title": "Overlapping Bar Charts",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/372968"
-        },
-        {
-          "id": "https://css-tricks.com/?p=372850",
-          "author": "Lu Wang",
-          "description": "CSS-only Wolfenstein is a little project that I made a few weeks ago. It was an experiment with CSS 3D transformations and animations.\nInspired by the FPS demo and another Wolfenstein CodePen, I decided to build my own version. …\nHacking CSS Animation State and Playback Time originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/hacking-css-animation-state-and-playback-time/",
-          "publishedOn": "2022-09-06T18:00:28.000Z",
-          "wordCount": 2426,
-          "title": "Hacking CSS Animation State and Playback Time",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/372850"
         }
       ]
     },
@@ -169,12 +169,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2022/09/meet-smashingconf-new-york/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "SmashingConf NYC is back! A friendly, inclusive conference for designers and front-end engineers who can’t wait to learn and be inspired. October 10–13, 2022. Get your ticket!",
+          "link": "https://smashingmagazine.com/2022/09/meet-smashingconf-new-york/",
+          "publishedOn": "2022-09-26T10:30:00.000Z",
+          "wordCount": 3158,
+          "title": "Meet SmashingConf New York 🇺🇸 (Oct 10&ndash;13)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6b0218f4-6266-412a-ace8-ea05b1ad688d/smashingconf-ny-banner.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6b0218f4-6266-412a-ace8-ea05b1ad688d/smashingconf-ny-banner.png"
+        },
+        {
           "id": "https://smashingmagazine.com/2022/09/lessons-learned-designer-founder/",
           "author": "hello@smashingmagazine.com (Dave Feldman)",
           "description": "In this article, Dave Feldman shares his lessons learned and the experiments has done as a multidisciplinary designer-founder-CEO at an early-stage startup. Let’s take a look at what it is that makes a great design process for teams of any size.",
           "link": "https://smashingmagazine.com/2022/09/lessons-learned-designer-founder/",
           "publishedOn": "2022-09-23T11:30:00.000Z",
-          "wordCount": 5646,
+          "wordCount": 5543,
           "title": "Lessons Learned As A Designer-Founder",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/273285f3-018f-4ce0-9c9c-06310070caaf/lessons-learned-designer-founder.jpg",
@@ -204,7 +219,7 @@
           "description": "Inline validation in web forms is useful when it works, but frustrating when it fails. Too often it leads to an endless stream of disruptive error messages or dead-ends without any chance of getting out. Let’s fix it.",
           "link": "https://smashingmagazine.com/2022/09/inline-validation-web-forms-ux/",
           "publishedOn": "2022-09-21T11:30:00.000Z",
-          "wordCount": 6806,
+          "wordCount": 6807,
           "title": "Designing Better Inline Validation UX",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/64066efe-71fa-45b6-8e86-caf46c423b64/clean-up-input-ux-pattern.jpg",
@@ -219,7 +234,7 @@
           "description": "In this episode of the Smashing Podcast, we’re talking about HTML email. Do we still have to design like we would for IE5? Vitaly talks to expert Rémi Parmentier to find out.",
           "link": "https://smashingmagazine.com/2022/09/smashing-podcast-episode-53/",
           "publishedOn": "2022-09-20T13:00:00.000Z",
-          "wordCount": 9830,
+          "wordCount": 9832,
           "title": "Smashing Podcast Episode 53 With Rémi Parmentier: Can HTML Email Use Modern CSS?",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3eaf789d-a932-4d1f-a811-3406e0c63644/smashing-podcast-episode-53.png",
@@ -249,7 +264,7 @@
           "description": "In today’s article, Andrico Karoulla explains how to create a cool draggable effect by listening to the drag events and writing some custom logic inside the handlers.",
           "link": "https://smashingmagazine.com/2022/09/building-retro-draggable-web-component-using-lit/",
           "publishedOn": "2022-09-19T18:00:00.000Z",
-          "wordCount": 7387,
+          "wordCount": 7383,
           "title": "Building A Retro Draggable Web Component With Lit",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c1d9b905-3c76-4125-a9b1-91c8db791a06/building-retro-draggable-web-component-using-lit.jpg",
@@ -264,7 +279,7 @@
           "description": "How can companies change their rating and review systems to better benefit users? Matt Athanasiou shares some steps to improve the experience of reviewing literature and other products — while also building stronger connections.",
           "link": "https://smashingmagazine.com/2022/09/rethinking-star-ratings-readers/",
           "publishedOn": "2022-09-16T10:00:00.000Z",
-          "wordCount": 5270,
+          "wordCount": 5267,
           "title": "Rethinking Star Ratings For Readers",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4c500c4a-f0b4-4348-9136-951d1b38afde/rethinking-star-ratings-readers.jpg",
@@ -294,7 +309,7 @@
           "description": "In this article, Juan Diego covers the least known yet extremely useful APIs, such as the Page Visibility API, Web Sharing API, Broadcast Channel API and Internationalization API. Together we will see what they are, where we should use them, and how to use them.",
           "link": "https://smashingmagazine.com/2022/09/javascript-api-guide/",
           "publishedOn": "2022-09-14T10:00:00.000Z",
-          "wordCount": 5878,
+          "wordCount": 5775,
           "title": "JavaScript APIs You Don’t Know About",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b583db40-b8c0-46c4-9893-5a7ae3d00453/api-page-visibility-web-sharing-broadcast-channel-internationalization.jpg",
@@ -339,7 +354,7 @@
           "description": "Design systems are a crucial success factor for digital businesses, and virtually every major player works with one. Still, they can sometimes be hard to sell to management. Here’s a ready-to-use formula to calculate the ROI of any design system.",
           "link": "https://smashingmagazine.com/2022/09/formula-roi-design-system/",
           "publishedOn": "2022-09-09T08:30:00.000Z",
-          "wordCount": 5621,
+          "wordCount": 5619,
           "title": "One Formula To Rule Them All: The ROI Of A Design System",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2ee3c9ea-d8c4-494f-bcb1-ed3530dafbab/formula-roi-design-system.jpg",
@@ -354,7 +369,7 @@
           "description": "UX checklists with best design practices, accessibility guidelines, design system checklist, tables UX checklist, UX research methods, form design UX and flowcharts.",
           "link": "https://smashingmagazine.com/2022/09/ux-checklists-for-interface-designers/",
           "publishedOn": "2022-09-08T13:00:00.000Z",
-          "wordCount": 3697,
+          "wordCount": 3696,
           "title": "UX Checklists For Interface Designers",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6588f0b2-af1a-4e0a-adb9-45dd2feaffa1/checklist-design.jpg",
@@ -369,7 +384,7 @@
           "description": "In this article, Andrew Somers, a 35-year veteran of the Hollywood film and television industry, shares his experience about the hard-fought battles and lessons learned designing for illuminated presentations.",
           "link": "https://smashingmagazine.com/2022/09/realities-myths-contrast-color/",
           "publishedOn": "2022-09-06T19:00:00.000Z",
-          "wordCount": 7823,
+          "wordCount": 7831,
           "title": "The Realities And Myths Of Contrast And Color",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a6553770-76d3-4d35-a473-1011999fbb66/realities-myths-contrast-color.jpg",
@@ -384,7 +399,7 @@
           "description": "In this episode of the Smashing Podcast, we ask how do you go from running a creative studio to designing NFTs. Vitaly talks to artist Yiying Lu to find out.",
           "link": "https://smashingmagazine.com/2022/09/smashing-podcast-episode-52/",
           "publishedOn": "2022-09-06T10:00:00.000Z",
-          "wordCount": 10427,
+          "wordCount": 10430,
           "title": "Smashing Podcast Episode 52 With Yiying Lu: How Do You Become An NFT Artist?",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/639db09c-3948-4a2d-a564-a189c62098b7/smashing-podcast-episode-52.png",
@@ -429,7 +444,7 @@
           "description": "In the second part of “Databases For Front-End Developers” series, Atila Fassina explores concepts to equip you to have your own opinions about which kinds of databases suit your specific needs.",
           "link": "https://smashingmagazine.com/2022/09/databases-frontend-developers-concepts-under-hood/",
           "publishedOn": "2022-09-01T11:00:00.000Z",
-          "wordCount": 4503,
+          "wordCount": 4504,
           "title": "Databases For Front-End Developers: The Concepts Under The Hood (Part 2)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7f8fb60e-72db-4053-825a-2cbc819c546b/databases-frontend-developers-concepts-under-hood.jpg",
@@ -459,7 +474,7 @@
           "description": "Let’s welcome September with some fresh desktop wallpapers. Designed by artists and designers from across the globe, they come in versions with and without a calendar for the month. Enjoy!",
           "link": "https://smashingmagazine.com/2022/08/desktop-wallpaper-calendars-september-2022/",
           "publishedOn": "2022-08-31T08:45:00.000Z",
-          "wordCount": 4947,
+          "wordCount": 5048,
           "title": "Finding The Balance (September 2022 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6859d441-1ee0-47f9-a3c7-73a1dbc29472/sep-22-cultivating-community-preview-opt.png",
@@ -506,6 +521,86 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/linux-basics/",
+          "author": "Daniel Iwugo",
+          "description": "Time to learn how to use the operating system of the average hacker 🐧. In this article, we will take a little tour of:  * The Linux operating system  * Package management  * The Linux file structure  * The Command Line Interface And you get to",
+          "link": "https://www.freecodecamp.org/news/linux-basics/",
+          "publishedOn": "2022-09-26T23:20:22.000Z",
+          "wordCount": 4025,
+          "title": "Linux for Hackers – Basics for Cybersecurity Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/linux-basics-for-hackers.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-loop-through-an-array-with-for-loop-in-javascript/",
+          "author": "Dennis Temoye Charity",
+          "description": "A loop is an instruction in computer programming that allows an application to repeat a process until a specific condition is met. For example, say you want to run through a list of names and output each name on your screen. If you didn't use a loop, you'd end up",
+          "link": "https://www.freecodecamp.org/news/how-to-loop-through-an-array-with-for-loop-in-javascript/",
+          "publishedOn": "2022-09-26T23:14:42.000Z",
+          "wordCount": 1364,
+          "title": "JavaScript For loop – How to Loop Through an Array in JS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/1_9H5rmyp3MgrcA8i1emsJPg.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/iteration-in-golang/",
+          "author": "Ubaydah Abdulwasiu",
+          "description": "In programming, iteration (commonly known as looping) is a process where a step is repeated n number of times until a specific condition is met. Just like every other programming language, Golang has a way of iterating through different data structures and data types like structs, maps, arrays, strings, and",
+          "link": "https://www.freecodecamp.org/news/iteration-in-golang/",
+          "publishedOn": "2022-09-26T22:44:22.000Z",
+          "wordCount": 2082,
+          "title": "Iteration in Golang – How to Loop Through Data Structures in Go",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/How-to-perform-iteration-in-Golang-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-create-serverless-logic-with-azure-functions/",
+          "author": "Salim Oyinlola",
+          "description": "What is Serverless Computing? You can think of serverless computing as a function as a service, or a microservice that is hosted on a cloud platform.  In this setup, your business logic runs as functions, and you do not have to manually create or scale infrastructure. The cloud platform",
+          "link": "https://www.freecodecamp.org/news/how-to-create-serverless-logic-with-azure-functions/",
+          "publishedOn": "2022-09-26T22:35:00.000Z",
+          "wordCount": 2248,
+          "title": "How to Create Serverless Logic with Azure Functions",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/QWERTYUIOP.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-concepts-you-should-know-before-learning-react/",
+          "author": "Ashutosh Mishra",
+          "description": "React is one of the most popular JavaScript frameworks for building single page applications. Needless to say, as a JavaScript framework, it requires you to have a good knowledge of JavaScript concepts. In this article, we are going to take a look at some of those JavaScript concepts that you",
+          "link": "https://www.freecodecamp.org/news/javascript-concepts-you-should-know-before-learning-react/",
+          "publishedOn": "2022-09-26T19:22:52.000Z",
+          "wordCount": 2533,
+          "title": "The JavaScript Concepts You Should Know Before Learning React",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/pexels-pixabay-417173--1-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/machine-learning-for-everybody/",
+          "author": "Beau Carnes",
+          "description": "Machine learning technology is now so common that you probably use it dozens of times a day without even realizing it. And since it has so many applications, the job prospects are great for anyone with a lot of machine learning experience. We just released a machine learning course on",
+          "link": "https://www.freecodecamp.org/news/machine-learning-for-everybody/",
+          "publishedOn": "2022-09-26T17:28:23.000Z",
+          "wordCount": 848,
+          "title": "Machine Learning for Everybody",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/machinelearning.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/html-drop-down-menu-how-to-add-a-drop-down-list-with-the-select-element/",
+          "author": "Joel Olawanle",
+          "description": "Many websites, applications, and web pages use drop-down menus to help display a list of information. You can use them to create navigation menus, options for forms, and more. If you're looking at some of these menus or lists, you might imagine how complex creating them could be. And yes",
+          "link": "https://www.freecodecamp.org/news/html-drop-down-menu-how-to-add-a-drop-down-list-with-the-select-element/",
+          "publishedOn": "2022-09-26T14:25:06.000Z",
+          "wordCount": 1500,
+          "title": "HTML Drop-down Menu – How to Add a Drop-Down List with the Select Element",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/cover-template--9-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/introduction-to-git-and-github/",
+          "author": "Segun Ajibola",
+          "description": "Git and GitHub are common tools used in programming. They help you manage different versions of your code and collaborate with other developers. Building projects is one of the core parts of being a developer. And Git and GitHub are essential tools you'll use when building projects with others. But",
+          "link": "https://www.freecodecamp.org/news/introduction-to-git-and-github/",
+          "publishedOn": "2022-09-26T05:23:00.000Z",
+          "wordCount": 2199,
+          "title": "How to Use Git and GitHub – Introduction for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/Untitled-design--6-.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/html-background-image-how-to-add-wallpaper-images-to-your-website/",
           "author": "Ihechikara Vincent Abba",
           "description": "Background images can help beautify websites and make them more attractive to users.  In this article, you'll learn:   * How to add a background image to your website using the CSS background-image     property.   * Other CSS background properties for images. How",
@@ -524,86 +619,6 @@
           "wordCount": 3329,
           "title": "How to Use SurrealDb with the Fresh Framework and Deno",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/Surreal-DB--and-deno-fresh-CMS--4-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-sort-recursively-in-python/",
-          "author": "P S Mohammed Ali",
-          "description": "When you want to sort a list or array in Python, there are many sorting algorithms you can use.  Some use looping concepts like Insertion Sort, Bubble Sort, and Selection Sort. On the other hand, you can also sort the same list or array using Merge Sort with the",
-          "link": "https://www.freecodecamp.org/news/how-to-sort-recursively-in-python/",
-          "publishedOn": "2022-09-23T14:35:00.000Z",
-          "wordCount": 2092,
-          "title": "How to Sort a List Recursively in Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/max-harlynking-_QcLpud-gD0-unsplash-1.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/introduction-to-linked-lists-in-python/",
-          "author": "Fakorede Damilola",
-          "description": "Different programming languages offer different ways to store and access data. Some of the data structures you can use are collections such as arrays, lists, maps, sets, and so on.  These all do an awesome job storing and accessing data, but sometimes you might need something different. Another data",
-          "link": "https://www.freecodecamp.org/news/introduction-to-linked-lists-in-python/",
-          "publishedOn": "2022-09-22T16:08:05.000Z",
-          "wordCount": 2377,
-          "title": "Linked Lists in Python – Explained with Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/chain-3481377_1280.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-align-text-in-html/",
-          "author": "Joel Olawanle",
-          "description": "Text is essential on web pages, as it tells your users what your web page is all about. When you add text to your web page, it dictates the direction and feel of your web page based on your language. For example, by default, English moves from left to right",
-          "link": "https://www.freecodecamp.org/news/how-to-align-text-in-html/",
-          "publishedOn": "2022-09-22T16:02:44.000Z",
-          "wordCount": 1969,
-          "title": "How to Align Text in HTML – Text-align, Center, and Justified Example",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/cover-template--8-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-is-hacking/",
-          "author": "Daniel Iwugo",
-          "description": "Time to learn the basics of the splendid art of hacking 👨‍💻👩‍💻.  In this article, you will learn what the hacking process really looks like. And hopefully one day, you'll get to say those famous words: “I’m in”. Disclaimer: This is for educational purposes only. Please (with a cherry",
-          "link": "https://www.freecodecamp.org/news/what-is-hacking/",
-          "publishedOn": "2022-09-22T15:21:49.000Z",
-          "wordCount": 2094,
-          "title": "What is Hacking? The Hacker Methodology Explained",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/hacker-methodology-image.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/intro-to-algorithms-with-python/",
-          "author": "Beau Carnes",
-          "description": "Understanding algorithms in an important skill for many computer science jobs. Algorithms help us solve problems efficiently. We just published an introduction to algorithms with Python course on the freeCodeCamp.org YouTube channel. In this course, you'll work with algorithm basics like recursion then go all the way to working with",
-          "link": "https://www.freecodecamp.org/news/intro-to-algorithms-with-python/",
-          "publishedOn": "2022-09-22T14:36:57.000Z",
-          "wordCount": 969,
-          "title": "Intro to Algorithms with Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/algos_python.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/css-combinators-to-select-elements/",
-          "author": "Dillion Megida",
-          "description": "Combinators allow you to combine multiple selectors to target specific elements in the DOM. In this article, I'll explain how four of these combinators with examples. In my previous post on CSS Selector Types [/news/how-to-select-elements-to-style-in-css/], I shared seven types of selectors for targetting elements that you want to style. If",
-          "link": "https://www.freecodecamp.org/news/css-combinators-to-select-elements/",
-          "publishedOn": "2022-09-21T23:17:05.000Z",
-          "wordCount": 1717,
-          "title": "How to Use CSS Combinators to Select and Style Elements",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/css-combinations.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/git-remove-last-commit-how-to-undo-a-commit-in-git/",
-          "author": "Dionysia Lemonaki",
-          "description": "Git is a powerful tool and the most popular version control system. It is how developers and technical teams collaborate and work together on projects. But what happens when you accidentally commit a file and realize that you shouldn't have done that because that file contains an error? There is",
-          "link": "https://www.freecodecamp.org/news/git-remove-last-commit-how-to-undo-a-commit-in-git/",
-          "publishedOn": "2022-09-21T17:42:10.000Z",
-          "wordCount": 1979,
-          "title": "Git Remove Last Commit – How to Undo a Commit in Git",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/pexels-andrew-neel-2312369.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/generic-pnp-monitor-how-to-fix-windows-10-pc-device-driver/",
-          "author": "Kolade Chris",
-          "description": "Have you acquired a new monitor only to find out it's not displaying anything from your computer? Or maybe the monitor suddenly stops working? On many occasions, this problem is caused by a faulty generic PNP monitor driver. Apart from driver issues, the monitor might not be working due to",
-          "link": "https://www.freecodecamp.org/news/generic-pnp-monitor-how-to-fix-windows-10-pc-device-driver/",
-          "publishedOn": "2022-09-21T16:18:08.000Z",
-          "wordCount": 1275,
-          "title": "Generic PNP Monitor – How to Fix Windows 10 PC Device Driver",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/monitor-1307227_1280.jpg"
         }
       ]
     }

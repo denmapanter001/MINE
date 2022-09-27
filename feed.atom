@@ -1,10 +1,111 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-26T00:38:44.276Z</id>
+    <id>urn:2022-09-27T00:42:11.743Z</id>
     <title>osmos::feed</title>
-    <updated>2022-09-26T00:38:44.276Z</updated>
+    <updated>2022-09-27T00:42:11.743Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Linux for Hackers – Basics for Cybersecurity Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/linux-basics/</id>
+        <link href="https://www.freecodecamp.org/news/linux-basics/"/>
+        <updated>2022-09-26T23:20:22.000Z</updated>
+        <summary type="html"><![CDATA[Time to learn how to use the operating system of the average hacker 🐧. In this article, we will take a little tour of:  * The Linux operating system  * Package management  * The Linux file structure  * The Command Line Interface And you get to]]></summary>
+        <author>
+            <name>Daniel Iwugo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript For loop – How to Loop Through an Array in JS]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-loop-through-an-array-with-for-loop-in-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-loop-through-an-array-with-for-loop-in-javascript/"/>
+        <updated>2022-09-26T23:14:42.000Z</updated>
+        <summary type="html"><![CDATA[A loop is an instruction in computer programming that allows an application to repeat a process until a specific condition is met. For example, say you want to run through a list of names and output each name on your screen. If you didn't use a loop, you'd end up]]></summary>
+        <author>
+            <name>Dennis Temoye Charity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Iteration in Golang – How to Loop Through Data Structures in Go]]></title>
+        <id>https://www.freecodecamp.org/news/iteration-in-golang/</id>
+        <link href="https://www.freecodecamp.org/news/iteration-in-golang/"/>
+        <updated>2022-09-26T22:44:22.000Z</updated>
+        <summary type="html"><![CDATA[In programming, iteration (commonly known as looping) is a process where a step is repeated n number of times until a specific condition is met. Just like every other programming language, Golang has a way of iterating through different data structures and data types like structs, maps, arrays, strings, and]]></summary>
+        <author>
+            <name>Ubaydah Abdulwasiu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create Serverless Logic with Azure Functions]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-create-serverless-logic-with-azure-functions/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-create-serverless-logic-with-azure-functions/"/>
+        <updated>2022-09-26T22:35:00.000Z</updated>
+        <summary type="html"><![CDATA[What is Serverless Computing? You can think of serverless computing as a function as a service, or a microservice that is hosted on a cloud platform.  In this setup, your business logic runs as functions, and you do not have to manually create or scale infrastructure. The cloud platform]]></summary>
+        <author>
+            <name>Salim Oyinlola</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The JavaScript Concepts You Should Know Before Learning React]]></title>
+        <id>https://www.freecodecamp.org/news/javascript-concepts-you-should-know-before-learning-react/</id>
+        <link href="https://www.freecodecamp.org/news/javascript-concepts-you-should-know-before-learning-react/"/>
+        <updated>2022-09-26T19:22:52.000Z</updated>
+        <summary type="html"><![CDATA[React is one of the most popular JavaScript frameworks for building single page applications. Needless to say, as a JavaScript framework, it requires you to have a good knowledge of JavaScript concepts. In this article, we are going to take a look at some of those JavaScript concepts that you]]></summary>
+        <author>
+            <name>Ashutosh Mishra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Machine Learning for Everybody]]></title>
+        <id>https://www.freecodecamp.org/news/machine-learning-for-everybody/</id>
+        <link href="https://www.freecodecamp.org/news/machine-learning-for-everybody/"/>
+        <updated>2022-09-26T17:28:23.000Z</updated>
+        <summary type="html"><![CDATA[Machine learning technology is now so common that you probably use it dozens of times a day without even realizing it. And since it has so many applications, the job prospects are great for anyone with a lot of machine learning experience. We just released a machine learning course on]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML Drop-down Menu – How to Add a Drop-Down List with the Select Element]]></title>
+        <id>https://www.freecodecamp.org/news/html-drop-down-menu-how-to-add-a-drop-down-list-with-the-select-element/</id>
+        <link href="https://www.freecodecamp.org/news/html-drop-down-menu-how-to-add-a-drop-down-list-with-the-select-element/"/>
+        <updated>2022-09-26T14:25:06.000Z</updated>
+        <summary type="html"><![CDATA[Many websites, applications, and web pages use drop-down menus to help display a list of information. You can use them to create navigation menus, options for forms, and more. If you're looking at some of these menus or lists, you might imagine how complex creating them could be. And yes]]></summary>
+        <author>
+            <name>Joel Olawanle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create Wavy Shapes & Patterns in CSS]]></title>
+        <id>https://css-tricks.com/?p=373403</id>
+        <link href="https://css-tricks.com/how-to-create-wavy-shapes-patterns-in-css/"/>
+        <updated>2022-09-26T13:13:30.000Z</updated>
+        <summary type="html"><![CDATA[The wave is probably one of the most difficult shapes to make in CSS. We always try to approximate it with properties like border-radius and lots of magic numbers until we get something that feels kinda close. And that’s before …
+How to Create Wavy Shapes & Patterns in CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Temani Afif</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meet SmashingConf New York 🇺🇸 (Oct 10&ndash;13)]]></title>
+        <id>https://smashingmagazine.com/2022/09/meet-smashingconf-new-york/</id>
+        <link href="https://smashingmagazine.com/2022/09/meet-smashingconf-new-york/"/>
+        <updated>2022-09-26T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[SmashingConf NYC is back! A friendly, inclusive conference for designers and front-end engineers who can’t wait to learn and be inspired. October 10–13, 2022. Get your ticket!]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Git and GitHub – Introduction for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/introduction-to-git-and-github/</id>
+        <link href="https://www.freecodecamp.org/news/introduction-to-git-and-github/"/>
+        <updated>2022-09-26T05:23:00.000Z</updated>
+        <summary type="html"><![CDATA[Git and GitHub are common tools used in programming. They help you manage different versions of your code and collaborate with other developers. Building projects is one of the core parts of being a developer. And Git and GitHub are essential tools you'll use when building projects with others. But]]></summary>
+        <author>
+            <name>Segun Ajibola</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HTML Background Image – How to Add Wallpaper Images to Your Website]]></title>
         <id>https://www.freecodecamp.org/news/html-background-image-how-to-add-wallpaper-images-to-your-website/</id>
@@ -38,16 +139,6 @@ How To Customize WordPress Block Theme Cover Templates with Dynamic Post Feature
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Sort a List Recursively in Python]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-sort-recursively-in-python/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-sort-recursively-in-python/"/>
-        <updated>2022-09-23T14:35:00.000Z</updated>
-        <summary type="html"><![CDATA[When you want to sort a list or array in Python, there are many sorting algorithms you can use.  Some use looping concepts like Insertion Sort, Bubble Sort, and Selection Sort. On the other hand, you can also sort the same list or array using Merge Sort with the]]></summary>
-        <author>
-            <name>P S Mohammed Ali</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Lessons Learned As A Designer-Founder]]></title>
         <id>https://smashingmagazine.com/2022/09/lessons-learned-designer-founder/</id>
         <link href="https://smashingmagazine.com/2022/09/lessons-learned-designer-founder/"/>
@@ -69,36 +160,6 @@ The Web is Good Now originally published on CSS-Tricks, which is part of the Dig
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Linked Lists in Python – Explained with Examples]]></title>
-        <id>https://www.freecodecamp.org/news/introduction-to-linked-lists-in-python/</id>
-        <link href="https://www.freecodecamp.org/news/introduction-to-linked-lists-in-python/"/>
-        <updated>2022-09-22T16:08:05.000Z</updated>
-        <summary type="html"><![CDATA[Different programming languages offer different ways to store and access data. Some of the data structures you can use are collections such as arrays, lists, maps, sets, and so on.  These all do an awesome job storing and accessing data, but sometimes you might need something different. Another data]]></summary>
-        <author>
-            <name>Fakorede Damilola</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Align Text in HTML – Text-align, Center, and Justified Example]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-align-text-in-html/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-align-text-in-html/"/>
-        <updated>2022-09-22T16:02:44.000Z</updated>
-        <summary type="html"><![CDATA[Text is essential on web pages, as it tells your users what your web page is all about. When you add text to your web page, it dictates the direction and feel of your web page based on your language. For example, by default, English moves from left to right]]></summary>
-        <author>
-            <name>Joel Olawanle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Hacking? The Hacker Methodology Explained]]></title>
-        <id>https://www.freecodecamp.org/news/what-is-hacking/</id>
-        <link href="https://www.freecodecamp.org/news/what-is-hacking/"/>
-        <updated>2022-09-22T15:21:49.000Z</updated>
-        <summary type="html"><![CDATA[Time to learn the basics of the splendid art of hacking 👨‍💻👩‍💻.  In this article, you will learn what the hacking process really looks like. And hopefully one day, you'll get to say those famous words: “I’m in”. Disclaimer: This is for educational purposes only. Please (with a cherry]]></summary>
-        <author>
-            <name>Daniel Iwugo</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How I Made an Icon System Out of CSS Custom Properties]]></title>
         <id>https://css-tricks.com/?p=373111</id>
         <link href="https://css-tricks.com/how-i-made-an-icon-system-out-of-css-custom-properties/"/>
@@ -110,16 +171,6 @@ How I Made an Icon System Out of CSS Custom Properties originally published on C
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Intro to Algorithms with Python]]></title>
-        <id>https://www.freecodecamp.org/news/intro-to-algorithms-with-python/</id>
-        <link href="https://www.freecodecamp.org/news/intro-to-algorithms-with-python/"/>
-        <updated>2022-09-22T14:36:57.000Z</updated>
-        <summary type="html"><![CDATA[Understanding algorithms in an important skill for many computer science jobs. Algorithms help us solve problems efficiently. We just published an introduction to algorithms with Python course on the freeCodeCamp.org YouTube channel. In this course, you'll work with algorithm basics like recursion then go all the way to working with]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Things I Wish I Had Known About Angular When I Started]]></title>
         <id>https://smashingmagazine.com/2022/09/angular-guide/</id>
         <link href="https://smashingmagazine.com/2022/09/angular-guide/"/>
@@ -127,16 +178,6 @@ How I Made an Icon System Out of CSS Custom Properties originally published on C
         <summary type="html"><![CDATA[If you’re considering learning Angular, this article sums up what William Juan wished he knew when he started, including the mistakes made and lessons learned the hard way.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (William Juan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use CSS Combinators to Select and Style Elements]]></title>
-        <id>https://www.freecodecamp.org/news/css-combinators-to-select-elements/</id>
-        <link href="https://www.freecodecamp.org/news/css-combinators-to-select-elements/"/>
-        <updated>2022-09-21T23:17:05.000Z</updated>
-        <summary type="html"><![CDATA[Combinators allow you to combine multiple selectors to target specific elements in the DOM. In this article, I'll explain how four of these combinators with examples. In my previous post on CSS Selector Types [/news/how-to-select-elements-to-style-in-css/], I shared seven types of selectors for targetting elements that you want to style. If]]></summary>
-        <author>
-            <name>Dillion Megida</name>
         </author>
     </entry>
     <entry>
@@ -152,26 +193,6 @@ As the above quote from W3C indicates, it seems
 CSS Rules vs. CSS Rulesets originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Git Remove Last Commit – How to Undo a Commit in Git]]></title>
-        <id>https://www.freecodecamp.org/news/git-remove-last-commit-how-to-undo-a-commit-in-git/</id>
-        <link href="https://www.freecodecamp.org/news/git-remove-last-commit-how-to-undo-a-commit-in-git/"/>
-        <updated>2022-09-21T17:42:10.000Z</updated>
-        <summary type="html"><![CDATA[Git is a powerful tool and the most popular version control system. It is how developers and technical teams collaborate and work together on projects. But what happens when you accidentally commit a file and realize that you shouldn't have done that because that file contains an error? There is]]></summary>
-        <author>
-            <name>Dionysia Lemonaki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generic PNP Monitor – How to Fix Windows 10 PC Device Driver]]></title>
-        <id>https://www.freecodecamp.org/news/generic-pnp-monitor-how-to-fix-windows-10-pc-device-driver/</id>
-        <link href="https://www.freecodecamp.org/news/generic-pnp-monitor-how-to-fix-windows-10-pc-device-driver/"/>
-        <updated>2022-09-21T16:18:08.000Z</updated>
-        <summary type="html"><![CDATA[Have you acquired a new monitor only to find out it's not displaying anything from your computer? Or maybe the monitor suddenly stops working? On many occasions, this problem is caused by a faulty generic PNP monitor driver. Apart from driver issues, the monitor might not be working due to]]></summary>
-        <author>
-            <name>Kolade Chris</name>
         </author>
     </entry>
     <entry>
@@ -407,18 +428,6 @@ Overlapping Bar Charts originally published on CSS-Tricks, which is part of the 
         <summary type="html"><![CDATA[In this article, Andrew Somers, a 35-year veteran of the Hollywood film and television industry, shares his experience about the hard-fought battles and lessons learned designing for illuminated presentations.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Andrew Somers)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hacking CSS Animation State and Playback Time]]></title>
-        <id>https://css-tricks.com/?p=372850</id>
-        <link href="https://css-tricks.com/hacking-css-animation-state-and-playback-time/"/>
-        <updated>2022-09-06T18:00:28.000Z</updated>
-        <summary type="html"><![CDATA[CSS-only Wolfenstein is a little project that I made a few weeks ago. It was an experiment with CSS 3D transformations and animations.
-Inspired by the FPS demo and another Wolfenstein CodePen, I decided to build my own version. …
-Hacking CSS Animation State and Playback Time originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Lu Wang</name>
         </author>
     </entry>
     <entry>
