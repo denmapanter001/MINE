@@ -1,10 +1,100 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-28T01:44:26.825Z</id>
+    <id>urn:2026-05-29T01:53:36.813Z</id>
     <title>osmos::feed</title>
-    <updated>2026-05-28T01:44:26.825Z</updated>
+    <updated>2026-05-29T01:53:36.813Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[A Developer's Guide to WebMCP: Shipping a 0% Adoption Standard]]></title>
+        <id>6a18c1667825875483411965</id>
+        <link href="https://www.freecodecamp.org/news/a-developers-guide-to-webmcp/"/>
+        <updated>2026-05-28T22:27:50.000Z</updated>
+        <summary type="html"><![CDATA[I scanned 111,076 of the top 200,000 websites on the internet looking for a specific HTTP header. I found exactly zero. Not one domain has shipped WebMCP in production. Not a single Fortune 500 site.]]></summary>
+        <author>
+            <name>Chudi Nnorukam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Hybrid Cloud Platform with Google Cloud Services and On-Premise Kubernetes Infrastructure]]></title>
+        <id>6a18c124782587548340fa90</id>
+        <link href="https://www.freecodecamp.org/news/build-a-hybrid-cloud-platform-with-google-cloud-services-and-on-premise-k8s-infra/"/>
+        <updated>2026-05-28T22:26:44.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you'll learn how to design and build a secure, scalable hybrid cloud platform that connects your on‑premises Kubernetes infrastructure to Google Cloud Platform. This allows on‑prem ap]]></summary>
+        <author>
+            <name>Shubham Katara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Design APIs for AI Agents]]></title>
+        <id>6a18bdb078258754833f8205</id>
+        <link href="https://www.freecodecamp.org/news/how-to-design-apis-for-ai-agents/"/>
+        <updated>2026-05-28T22:12:00.000Z</updated>
+        <summary type="html"><![CDATA[APIs are designed for human developers. People read documentation, infer the intent behind an endpoint, and know how to handle edge cases when something unexpected happens. AI agents don't have that c]]></summary>
+        <author>
+            <name>David Aniebo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Figma for UI/UX Design]]></title>
+        <id>6a18a887782587548336b8a6</id>
+        <link href="https://www.freecodecamp.org/news/learn-figma-for-ui-ux-design/"/>
+        <updated>2026-05-28T20:41:43.000Z</updated>
+        <summary type="html"><![CDATA[Master the entire UI/UX design workflow. We just published a comprehensive six-hour course on the freeCodeCamp.org YouTube channel that takes you from Figma basics to professional-grade, high-fidelity]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When Your Customer Is an AI Agent: How B2B Companies Stay Visible When Buyers Are AI Agents]]></title>
+        <id>6a1890cd78258754832949d4</id>
+        <link href="https://www.freecodecamp.org/news/what-to-do-when-your-customer-is-an-ai-agent/"/>
+        <updated>2026-05-28T19:00:29.000Z</updated>
+        <summary type="html"><![CDATA[In April 2026, the 2X AI Innovation Lab published the inaugural AI Visibility Index, analyzing how 70 B2B companies appear across the generative AI environments that buyers now use to research and sho]]></summary>
+        <author>
+            <name>Rudrendu Paul</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GDPR Article 32 for Software Engineers: Technical Controls, Implementations, and Auditor Questions]]></title>
+        <id>6a186b4960295e5547e0936d</id>
+        <link href="https://www.freecodecamp.org/news/gdpr-article-32-for-software-engineers-technical-controls-implementations-and-auditor-questions/"/>
+        <updated>2026-05-28T16:20:25.000Z</updated>
+        <summary type="html"><![CDATA[When I first read GDPR Article 32, I made a mistake. I thought it was a legal document. But it's not. It's an infrastructure specification. The regulation says you need "appropriate technical measures]]></summary>
+        <author>
+            <name>Ayobami Adejumo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RAG Explained Simply with a Real Project]]></title>
+        <id>6a186a9260295e5547e04628</id>
+        <link href="https://www.freecodecamp.org/news/rag-explained-simply-with-a-real-project/"/>
+        <updated>2026-05-28T16:17:22.000Z</updated>
+        <summary type="html"><![CDATA[If you have used ChatGPT, you know how magical it feels. You ask a question, and it instantly generates a highly articulate answer. But you also probably know its biggest flaw. If you ask it about you]]></summary>
+        <author>
+            <name>Ashutosh Krishna</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Algorithmic Theming Engines: Building Self-Correcting Color Systems With `contrast-color()`]]></title>
+        <id>https://smashingmagazine.com/2026/05/building-self-correcting-color-systems-contrast-color/</id>
+        <link href="https://smashingmagazine.com/2026/05/building-self-correcting-color-systems-contrast-color/"/>
+        <updated>2026-05-28T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Seventy percent of websites still fail basic WCAG contrast checks in 2025. After years of design system tooling, accessibility linters, and JavaScript libraries, nothing moved the needle. We didn’t need better libraries. We needed better CSS. `contrast-color()` is that better CSS.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Durgesh Pawar)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Production RAG with LangChain & Vector Databases]]></title>
+        <id>6a183a86badcd8afcb9da431</id>
+        <link href="https://www.freecodecamp.org/news/production-rag-with-langchain-vector-databases/"/>
+        <updated>2026-05-28T12:52:22.000Z</updated>
+        <summary type="html"><![CDATA[Master the transition from simple prototypes to production-grade RAG systems by addressing the critical scaling, debugging, and security challenges that standard tutorials often ignore. We just posted]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Advanced Error Handling in Dart: Records, Result Types, Monads, and Freezed Exceptions]]></title>
         <id>6a17657ebadcd8afcb2bcdb4</id>
@@ -26,63 +116,36 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Top 5 Proxy Providers for Developers]]></title>
-        <id>6a175a04badcd8afcb276a4e</id>
-        <link href="https://www.freecodecamp.org/news/top-5-proxy-providers-for-developers/"/>
-        <updated>2026-05-27T20:54:28.000Z</updated>
-        <summary type="html"><![CDATA[Developers today build software in a world where the internet is fragmented. Websites change content based on geography. APIs introduce rate limits. Security systems block repeated requests. Testing e]]></summary>
+        <title type="html"><![CDATA[Revealing Text With CSS letter-spacing]]></title>
+        <id>https://css-tricks.com/?p=393536</id>
+        <link href="https://css-tricks.com/revealing-text-with-css-letter-spacing/"/>
+        <updated>2026-05-27T12:37:33.000Z</updated>
+        <summary type="html"><![CDATA[Until we get something like ::nth-letter, there are still some really cool text effects we can make from existing CSS features, like letter-spacing, ::first-word and ::first-line.
+Revealing Text With CSS letter-spacing originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
-            <name>Manish Shivanandhan</name>
+            <name>Preethi</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Use Bash & Python for Real DevOps Automation – Full Handbook with 5 Production Use Cases]]></title>
-        <id>6a171310badcd8afcb060460</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-bash-python-for-real-devops-automation-handbook-with-production-use-cases/"/>
-        <updated>2026-05-27T15:51:44.000Z</updated>
-        <summary type="html"><![CDATA[Automation scripts often validate process completion instead of system health. A Kubernetes pod can be running while the application inside it can't authenticate to the database. A Terraform deploymen]]></summary>
+        <title type="html"><![CDATA[Technical Writing in the AI Age]]></title>
+        <id>https://css-tricks.com/?p=395048</id>
+        <link href="https://css-tricks.com/technical-writing-in-the-ai-age/"/>
+        <updated>2026-05-26T13:49:28.000Z</updated>
+        <summary type="html"><![CDATA[This isn’t totally about AI. It’s about technical writing in the age of AI. I have some thoughts on this and I hope it’s helpful to you humans reading.
+Technical Writing in the AI Age originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
-            <name>Osomudeya Zudonu</name>
+            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How CAPTCHAs Affect Accessibility: Problems, Workarounds, and Alternatives]]></title>
-        <id>6a17098ebadcd8afcb01782a</id>
-        <link href="https://www.freecodecamp.org/news/how-captchas-affect-accessibility-problems-and-alternatives/"/>
-        <updated>2026-05-27T15:11:10.000Z</updated>
-        <summary type="html"><![CDATA[CAPTCHAs – or the “I am not a robot” challenges – were originally designed to separate humans from bots. It started with deciphering some distorted text, then evolved into checking a box or boxes wher]]></summary>
+        <title type="html"><![CDATA[Cross-Document View Transitions: Scaling Across Hundreds of Elements]]></title>
+        <id>https://css-tricks.com/?p=393441</id>
+        <link href="https://css-tricks.com/cross-document-view-transitions-part-2/"/>
+        <updated>2026-05-25T13:46:54.000Z</updated>
+        <summary type="html"><![CDATA[Every view-transition-name on a page must be unique. The problem is that every pseudo-element selector in your CSS targets a specific name, so your animation styles explode into an unmanageable wall of selectors.
+Cross-Document View Transitions: Scaling Across Hundreds of Elements originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
-            <name>Ilknur Eren</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Browser-Based PDF Rotator Using JavaScript]]></title>
-        <id>6a17079fbadcd8afcb0097bf</id>
-        <link href="https://www.freecodecamp.org/news/how-to-rotate-pdf-pages/"/>
-        <updated>2026-05-27T15:02:55.000Z</updated>
-        <summary type="html"><![CDATA[Sometimes PDF pages appear upside down, sideways, or in the wrong orientation after scanning or exporting documents. Instead of re-creating the document manually, users usually just need a quick way t]]></summary>
-        <author>
-            <name>Bhavin Sheth</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build AI Apps in the Browser with TensorFlow.js and WebGPU]]></title>
-        <id>6a1706d0badcd8afcb00415d</id>
-        <link href="https://www.freecodecamp.org/news/build-ai-apps-in-the-browser-with-tensorflow-js-and-webgpu/"/>
-        <updated>2026-05-27T14:59:28.000Z</updated>
-        <summary type="html"><![CDATA[Most developers think of AI the same way: you send data to a server, the server thinks, you get a response back. That mental model made sense for a long time. It still makes sense for a lot of use cas]]></summary>
-        <author>
-            <name>Ayantunji Timilehin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Connect Your AI Coding Agent to a Browser on macOS]]></title>
-        <id>6a1594c1da253d50d4ae1277</id>
-        <link href="https://www.freecodecamp.org/news/how-to-connect-your-ai-coding-agent-to-a-browser-on-macos/"/>
-        <updated>2026-05-26T12:40:33.000Z</updated>
-        <summary type="html"><![CDATA[AI coding agents like Claude Code, Cursor, and the rest have gotten remarkably good at reading and writing code. But the moment they need to look at something on the web, they hit a wall. They can't s]]></summary>
-        <author>
-            <name>אחיה כהן</name>
+            <name>Durgesh Rajubhai Pawar</name>
         </author>
     </entry>
     <entry>
@@ -96,23 +159,14 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Product Experimentation for Collaborative AI Features: Cluster Randomization for LLM-Based Tools in Python]]></title>
-        <id>6a10ab6c1f237623ea28e372</id>
-        <link href="https://www.freecodecamp.org/news/cluster-randomization-for-llm-based-tools-in-python/"/>
-        <updated>2026-05-22T19:15:56.000Z</updated>
-        <summary type="html"><![CDATA[Every product experimentation team running causal inference on LLM-based collaborative features eventually hits the same wall: your users aren't independent. Your team ships an AI meeting summarizer t]]></summary>
+        <title type="html"><![CDATA[The State of CSS Centering in 2026]]></title>
+        <id>https://css-tricks.com/?p=394429</id>
+        <link href="https://css-tricks.com/the-state-of-css-centering-in-2026/"/>
+        <updated>2026-05-22T13:44:40.000Z</updated>
+        <summary type="html"><![CDATA[Despite the countless number of online resources, it’s easy to get confused when trying to center an element. There are documented solutions, but do you really understand why the code you picked works? Let's look at the current state of centering options today in 2026. 
+The State of CSS Centering in 2026 originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
-            <name>Rudrendu Paul</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Dart Cloud Functions and the Firebase Admin SDK: A Handbook for Developers]]></title>
-        <id>6a109b5d1f237623ea2023a3</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-dart-cloud-functions-and-the-firebase-admin-sdk/"/>
-        <updated>2026-05-22T18:07:25.000Z</updated>
-        <summary type="html"><![CDATA[There is a specific kind of friction that every Flutter developer who has tried to write a backend has felt. You spend your days writing expressive, null-safe, strongly typed Dart code on the frontend]]></summary>
-        <author>
-            <name>Atuoha Anthony</name>
+            <name>Temani Afif</name>
         </author>
     </entry>
     <entry>
@@ -136,6 +190,39 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Stack Overflow: When We Stop Asking]]></title>
+        <id>https://css-tricks.com/?p=393076</id>
+        <link href="https://css-tricks.com/stack-overflow-when-we-stop-asking/"/>
+        <updated>2026-05-20T13:51:34.000Z</updated>
+        <summary type="html"><![CDATA[It still hits like a ton of bricks to see the steep decline in Stack Overflow questions. What does that mean about learning in our industry?
+Stack Overflow: When We Stop Asking originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Sunkanmi Fafowora</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cross-Document View Transitions: The Gotchas Nobody Mentions]]></title>
+        <id>https://css-tricks.com/?p=393399</id>
+        <link href="https://css-tricks.com/cross-document-view-transitions-part-1/"/>
+        <updated>2026-05-18T13:47:19.000Z</updated>
+        <summary type="html"><![CDATA[This is Part 1 of a two-part series about cross-document view transitions, going over all the gotchas, from ditching the deprecated way to opt into them to a little-known 4-second timeout.
+Cross-Document View Transitions: The Gotchas Nobody Mentions originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Durgesh Rajubhai Pawar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s !important #11: 3D Voxel Scenes, Flying Focus, CSS Syntaxes, and More]]></title>
+        <id>https://css-tricks.com/?p=394879</id>
+        <link href="https://css-tricks.com/whats-important-11/"/>
+        <updated>2026-05-15T13:16:34.000Z</updated>
+        <summary type="html"><![CDATA[If 3D voxel scenes (that you can style), flying focus animations, or new CSS syntaxes sound like your kinda thing, then this issue of What’s !important is definitely for you.
+What’s !important #11: 3D Voxel Scenes, Flying Focus, CSS Syntaxes, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Ten Data-Backed Truths Of User Experience ROI]]></title>
         <id>https://smashingmagazine.com/2026/05/data-backed-truths-user-experience-roi/</id>
         <link href="https://smashingmagazine.com/2026/05/data-backed-truths-user-experience-roi/"/>
@@ -146,6 +233,61 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Computing and Displaying Discounted Prices in CSS]]></title>
+        <id>https://css-tricks.com/?p=393498</id>
+        <link href="https://css-tricks.com/computing-and-displaying-discounted-prices-in-css/"/>
+        <updated>2026-05-14T14:05:01.000Z</updated>
+        <summary type="html"><![CDATA[A clever use of CSS to calculate and display a discounted product price by providing a base price and discount amount, featuring modern CSS features like attr(), mod(), and round().
+Computing and Displaying Discounted Prices in CSS originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Preethi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[rotateX()]]></title>
+        <id>https://css-tricks.com/?page_id=393625</id>
+        <link href="https://css-tricks.com/almanac/functions/r/rotatex/"/>
+        <updated>2026-05-13T14:36:54.000Z</updated>
+        <summary type="html"><![CDATA[The rotateX() function rotates an element around the x-axis in a three-dimensional space
+rotateX() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Gabriel Shoyombo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[rotateY()]]></title>
+        <id>https://css-tricks.com/?page_id=393615</id>
+        <link href="https://css-tricks.com/almanac/functions/r/rotatey/"/>
+        <updated>2026-05-13T14:33:58.000Z</updated>
+        <summary type="html"><![CDATA[The rotateY() function rotates an element around its vertical y-axis.
+rotateY() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Gabriel Shoyombo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[rotateZ()]]></title>
+        <id>https://css-tricks.com/?page_id=393630</id>
+        <link href="https://css-tricks.com/almanac/functions/r/rotatez/"/>
+        <updated>2026-05-13T14:33:03.000Z</updated>
+        <summary type="html"><![CDATA[The rotateZ() function rotates an element around its z-axis, so clockwise or counterclockwise. 
+rotateZ() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Gabriel Shoyombo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[rotate()]]></title>
+        <id>https://css-tricks.com/?page_id=393611</id>
+        <link href="https://css-tricks.com/almanac/functions/r/rotate/"/>
+        <updated>2026-05-13T14:32:47.000Z</updated>
+        <summary type="html"><![CDATA[The rotate() function spins an element either clockwise or counterclockwise in a 2D plane.
+rotate() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Gabriel Shoyombo</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Practical Interface Patterns For AI Transparency (Part 2)]]></title>
         <id>https://smashingmagazine.com/2026/05/practical-interface-patterns-ai-transparency/</id>
         <link href="https://smashingmagazine.com/2026/05/practical-interface-patterns-ai-transparency/"/>
@@ -153,6 +295,39 @@
         <summary type="html"><![CDATA[Why traditional loading patterns like spinners fail in agentic AI experiences, and how interface patterns that reveal the system’s process, status, and decision-making can improve transparency and build user trust.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Victor Yocco)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Soon We Can Finally Banish JavaScript to the ShadowRealm]]></title>
+        <id>https://css-tricks.com/?p=393604</id>
+        <link href="https://css-tricks.com/soon-we-can-finally-banish-javascript-to-the-shadowrealm/"/>
+        <updated>2026-05-12T13:59:35.000Z</updated>
+        <summary type="html"><![CDATA[The proposed ShadowRealm API introduces a new kind of realm specifically designed for isolation, and only that.
+Soon We Can Finally Banish JavaScript to the ShadowRealm originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Mat Marquis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using CSS corner-shape For Folded Corners]]></title>
+        <id>https://css-tricks.com/?p=393431</id>
+        <link href="https://css-tricks.com/using-css-corner-shape-for-folded-corners/"/>
+        <updated>2026-05-08T13:54:10.000Z</updated>
+        <summary type="html"><![CDATA[I came across Kitty Giraudel’s folded corners technique. I’ve been on a bit of a corner-shape kick lately, so I figured that corner-shape could be used to create folded corners as well.
+Using CSS corner-shape For Folded Corners originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Scrollytelling Gift for Mum on Mother’s Day 2026]]></title>
+        <id>https://css-tricks.com/?p=394649</id>
+        <link href="https://css-tricks.com/a-scrollytelling-gift-for-mum-on-mothers-day-2026/"/>
+        <updated>2026-05-07T14:22:38.000Z</updated>
+        <summary type="html"><![CDATA[I will explain how my mum inspired this 2026 Mother’s Day scrollytelling experiment — but also, how she inspired my approach to dev and life.
+A Scrollytelling Gift for Mum on Mother’s Day 2026 originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Lee Meyer</name>
         </author>
     </entry>
     <entry>
