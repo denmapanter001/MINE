@@ -12,12 +12,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2026/06/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/",
+          "author": "hello@smashingmagazine.com (Pratik Joglekar)",
+          "description": "In a world where AI is informing more design choices, it’s easy to mistake predictions for certainties. This article introduces Probabilistic Design, a mindset that allows UX and product teams to accept uncertainty, decipher AI outputs with nuance, and make smart, adaptive decisions.",
+          "link": "https://smashingmagazine.com/2026/06/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/",
+          "publishedOn": "2026-06-16T15:00:00.000Z",
+          "wordCount": 6497,
+          "title": "Designing With Uncertainty: How AI Supercharges Probabilistic Thinking",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/designing-uncertainty-how-ai-supercharges-probabilistic-thinking.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/designing-uncertainty-how-ai-supercharges-probabilistic-thinking.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2026/06/impact-humanoid-robots-humanity/",
           "author": "hello@smashingmagazine.com (Carrie Webster)",
           "description": "We have officially moved past the era of humanoid robots as mere public relations stunts. As they become increasingly lifelike, society may soon face profound social, psychological, and ethical challenges. What happens when the boundary between humans and machines becomes almost impossible to distinguish?",
           "link": "https://smashingmagazine.com/2026/06/impact-humanoid-robots-humanity/",
           "publishedOn": "2026-06-12T08:00:00.000Z",
-          "wordCount": 4811,
+          "wordCount": 4804,
           "title": "The Impact Of Humanoid Robots On Humanity",
           "enclosure": {
             "url": "http://files.smashing.media/articles/impact-humanoid-robots-humanity/impact-humanoid-robots-humanity.jpg",
@@ -32,7 +47,7 @@
           "description": "Findings from an exploratory user research study highlighting the unique insights and practical UX recommendations shared by participants with cognitive disabilities.",
           "link": "https://smashingmagazine.com/2026/06/benefits-cognitive-inclusion-ux-research/",
           "publishedOn": "2026-06-10T10:00:00.000Z",
-          "wordCount": 5751,
+          "wordCount": 5749,
           "title": "The Benefits Of Cognitive Inclusion In UX Research",
           "enclosure": {
             "url": "http://files.smashing.media/articles/benefits-cognitive-inclusion-ux-research/benefits-cognitive-inclusion-ux-research.jpg",
@@ -62,7 +77,7 @@
           "description": "Let’s kick off June — and the beginning of summer — with some fresh inspiration! Artists and designers from across the globe once again tickled their creativity to welcome the new month with a new collection of desktop wallpapers. Enjoy!",
           "link": "https://smashingmagazine.com/2026/05/desktop-wallpaper-calendars-june-2026/",
           "publishedOn": "2026-05-31T08:00:00.000Z",
-          "wordCount": 5518,
+          "wordCount": 5526,
           "title": "June Is For Exploring (2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-june-2026/jun-26-drifting-into-june-preview-opt.png",
@@ -77,7 +92,7 @@
           "description": "Seventy percent of websites still fail basic WCAG contrast checks in 2025. After years of design system tooling, accessibility linters, and JavaScript libraries, nothing moved the needle. We didn’t need better libraries. We needed better CSS. `contrast-color()` is that better CSS.",
           "link": "https://smashingmagazine.com/2026/05/building-self-correcting-color-systems-contrast-color/",
           "publishedOn": "2026-05-28T13:00:00.000Z",
-          "wordCount": 5664,
+          "wordCount": 5663,
           "title": "Algorithmic Theming Engines: Building Self-Correcting Color Systems With `contrast-color()`",
           "enclosure": {
             "url": "http://files.smashing.media/articles/building-self-correcting-color-systems-contrast-color/building-self-correcting-color-systems-contrast-color.jpg",
@@ -122,7 +137,7 @@
           "description": "Meet `sibling-index()` and `sibling-count()`. Staggered cascade effect in one line of CSS without `:nth-child()` rules or JS workarounds. Works for 5 items or 5,000.",
           "link": "https://smashingmagazine.com/2026/05/mathematical-layouts-sibling-index-sibling-count/",
           "publishedOn": "2026-05-21T08:00:00.000Z",
-          "wordCount": 4897,
+          "wordCount": 4901,
           "title": "Advanced Tree Counting: Mathematical Layouts With `sibling-index()` And `sibling-count()`",
           "enclosure": {
             "url": "http://files.smashing.media/articles/mathematical-layouts-sibling-index-sibling-count/mathematical-layouts-sibling-index-sibling-count.jpg",
@@ -138,6 +153,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6a30894af07f26c8d93079b8",
+          "author": "Ayobami Adejumo",
+          "description": "My first AWS bill was $23,000. I had been working at the company for three weeks. Nobody told me. The bill just grew quietly in the background while I was proud of the feature I shipped. A Lambda func",
+          "link": "https://www.freecodecamp.org/news/the-2026-finops-roadmap-from-cost-blind-engineer-to-cloud-financial-manager/",
+          "publishedOn": "2026-06-15T23:22:50.000Z",
+          "wordCount": 4990,
+          "title": "The 2026 FinOps Roadmap: From Cost-Blind Engineer to Cloud Financial Manager",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/365d29dc-738d-4c21-a9a5-8f818c36cc95.png"
+        },
+        {
+          "id": "6a30885987482776da85bfd7",
+          "author": "Daniel Nwaneri",
+          "description": "In July 2025, a Claude Code recursion loop burned between 16,000 USD and 50,000 USD in five hours. There was no crash or error, just agents doing exactly what they were told, indefinitely, because nob",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-production-safe-agent-loop-from-exit-conditions-to-audit-trails/",
+          "publishedOn": "2026-06-15T23:18:49.000Z",
+          "wordCount": 4315,
+          "title": "How to Build a Production-Safe Agent Loop: From Exit Conditions to Audit Trails",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e135008490269cb3022acbf/0b4027d7-f2d5-42d6-bdc5-5eeec278425d.png"
+        },
         {
           "id": "6a30800dc3625a1a686f75f8",
           "author": "Mohammed Fahd Abrah",
@@ -217,26 +252,6 @@
           "wordCount": 2932,
           "title": "How to Build a Browser-Based PDF Crop Tool Using JavaScript",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/4849599a-a0bc-4cb7-9d14-86bb990d000d.png"
-        },
-        {
-          "id": "6a2cfaa312f3716e29ed15f7",
-          "author": "Nikhil Adithyan",
-          "description": "On April 3, 2025, the US announced sweeping tariffs on Chinese imports. SPY dropped 4.8% that day. The next day, it dropped another 6%. Financial news ran the usual headline: markets rattled by geopol",
-          "link": "https://www.freecodecamp.org/news/geopolitical-risk-isn-t-one-thing-i-built-a-python-framework-to-prove-it/",
-          "publishedOn": "2026-06-13T06:37:23.000Z",
-          "wordCount": 5608,
-          "title": "Geopolitical Risk Isn't One Thing. I Built a Python Framework to Prove It",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/58157af6-2b00-4d0c-a5a0-c8e08892c568.png"
-        },
-        {
-          "id": "6a2bba6e86b91d1d78662a12",
-          "author": "Bansidhar Kadiya",
-          "description": "If you're looking to level up your front-end development skills by building a practical web utility, this is the guide for you. We'll code a fully functional Case Converter Tool from scratch using onl",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-case-converter-tool/",
-          "publishedOn": "2026-06-12T07:51:10.000Z",
-          "wordCount": 2524,
-          "title": "How to Build a Case Converter Tool Using HTML, CSS, and JavaScript",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/72153c4c-a59f-4cc8-a6c5-2bd457c729ab.png"
         }
       ]
     }
