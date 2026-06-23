@@ -1,10 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-22T02:26:43.371Z</id>
+    <id>urn:2026-06-23T01:54:22.022Z</id>
     <title>osmos::feed</title>
-    <updated>2026-06-22T02:26:43.371Z</updated>
+    <updated>2026-06-23T01:54:22.022Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What to Do When Reflection Won't Fix Your AI Agent's Output]]></title>
+        <id>6a39b4a8a46b9ad44f07cee5</id>
+        <link href="https://www.freecodecamp.org/news/what-to-do-when-reflection-won-t-fix-your-ai-agent-s-output/"/>
+        <updated>2026-06-22T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Many AI Agent tutorials propose the same fix for bad output: reflection. Your agent generates garbage JSON? Just add another LLM call to "review" it. The second call critiques the first, the first tri]]></summary>
+        <author>
+            <name>Manish Ramavat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Scalable Design System in a Monorepo]]></title>
+        <id>6a397b0b12901591d0138d81</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-scalable-design-system-in-a-monorepo/"/>
+        <updated>2026-06-22T18:12:27.000Z</updated>
+        <summary type="html"><![CDATA[When you hear "Scalable Design System with a Monorepo Ecosystem" it might sound like a bunch of jargon glued together. Let's simplify: Design system: the building blocks of your product (buttons, inp]]></summary>
+        <author>
+            <name>Vineeth Pawar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Turn Performance Audits into AI Fix Prompts with a DevTools Extension]]></title>
+        <id>6a3966d66a52acabf1b616a4</id>
+        <link href="https://www.freecodecamp.org/news/how-to-turn-performance-audits-into-ai-fix-prompts-with-a-devtools-extension/"/>
+        <updated>2026-06-22T16:46:14.000Z</updated>
+        <summary type="html"><![CDATA[Performance tools are good at showing you what's slow. They can tell you that your Largest Contentful Paint is 4.2 seconds, your JavaScript bundle is too large, or an image below the fold is loading t]]></summary>
+        <author>
+            <name>Olamilekan Lamidi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The EKS Cost Optimization Handbook: Reduce Your AWS Bill by 60% Using Karpenter and Rightsizing]]></title>
+        <id>6a396515fa8e37864960ddb6</id>
+        <link href="https://www.freecodecamp.org/news/eks-cost-optimization-reduce-your-aws-bill-using-karpenter-and-rightsizing/"/>
+        <updated>2026-06-22T16:38:45.000Z</updated>
+        <summary type="html"><![CDATA[This handbook is a complete guide to the 7-step playbook that took one EKS bill from \(85,000/month to \)34,000/month — without touching a single line of product code. I've audited EKS clusters at mor]]></summary>
+        <author>
+            <name>Ayobami Adejumo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Organize and Maintain Azure Repositories at Scale: An Azure DevOps Engineer's Guide]]></title>
+        <id>6a39609b4c4daad6a42f931b</id>
+        <link href="https://www.freecodecamp.org/news/how-to-organize-and-maintain-azure-repositories-at-scale/"/>
+        <updated>2026-06-22T16:19:39.000Z</updated>
+        <summary type="html"><![CDATA[Managing a few of repositories is easy. And managing dozens can be challenging. But managing hundreds across multiple teams, products, and deployment environments is where things start to break down.]]></summary>
+        <author>
+            <name>Casmir Onyekani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Scroll-Driven Animations for Opposing Scroll Directions]]></title>
+        <id>https://css-tricks.com/?p=394890</id>
+        <link href="https://css-tricks.com/scroll-driven-animations-opposing-scroll-directions/"/>
+        <updated>2026-06-22T12:39:13.000Z</updated>
+        <summary type="html"><![CDATA[Sometimes designers have silly ideas that eventually grow on you. That happened to me with this concept where I had to build columns of items moving in opposite directions when a user scrolls the page.
+CodePen Embed Fallback
+Note: This …
+Using Scroll-Driven Animations for Opposing Scroll Directions originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Silvestar Bistrović</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Handle Errors the Right Way in Flutter: A Practical Guide to Sealed Classes, Records, and Result Types]]></title>
         <id>6a36e90fd5185a258a6a5508</id>
@@ -64,56 +127,6 @@ A First Look at Scroll-Triggered Animations originally handwritten and published
         <summary type="html"><![CDATA[A few years ago, the first day I finally got access to an AI image generator, I was so excited that I immediately sat down and wrote an article about it (using Node.js and OpenAI's DALL-E). The magic]]></summary>
         <author>
             <name>Djibril-M🍀</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Wearables Track the Menstrual Cycle: The Sensors, the Algorithms, and the Accuracy Gap]]></title>
-        <id>6a34144348f250210b480951</id>
-        <link href="https://www.freecodecamp.org/news/how-wearables-track-the-menstrual-cycle-the-sensors-the-algorithms-and-the-accuracy-gap/"/>
-        <updated>2026-06-18T15:52:34.000Z</updated>
-        <summary type="html"><![CDATA[Your Garmin shows poor recovery, WHOOP paints your day red, your resting heart rate is high, your HRV is low, and the app recommends that you rest. But here’s the thing: you don’t actually feel bad. F]]></summary>
-        <author>
-            <name>Shradha Puri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Analyze Analyst Estimate Ranges with Python]]></title>
-        <id>6a34139bd09354fbef127810</id>
-        <link href="https://www.freecodecamp.org/news/how-to-analyze-analyst-estimate-ranges-with-python/"/>
-        <updated>2026-06-18T15:49:47.000Z</updated>
-        <summary type="html"><![CDATA[Most financial models use analyst consensus as a single forward-looking input: revenue estimate, EPS estimate, EBITDA estimate, or some version of a forward margin assumption. That works, but it flatt]]></summary>
-        <author>
-            <name>Nikhil Adithyan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Handle Small Context Window Limits in RAG Systems]]></title>
-        <id>6a33373b82e3f02be1b8c36f</id>
-        <link href="https://www.freecodecamp.org/news/how-to-handle-small-context-window-limits-in-rag-systems/"/>
-        <updated>2026-06-18T00:09:31.000Z</updated>
-        <summary type="html"><![CDATA[Retrieval-augmented generation, or RAG, is a pattern where an application retrieves relevant source material and adds it to a model prompt so the model can answer from that context. A larger context w]]></summary>
-        <author>
-            <name>Sviatoslav Barbutsa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Avoid Overusing useCallback and useMemo in React]]></title>
-        <id>6a32f4091d5034aa7d96e448</id>
-        <link href="https://www.freecodecamp.org/news/how-to-avoid-overusing-usecallback-and-usememo-in-react/"/>
-        <updated>2026-06-17T19:22:49.000Z</updated>
-        <summary type="html"><![CDATA[If you've spent enough time in the React ecosystem, you'll have likely seen codebases where nearly every function is wrapped with useCallback and the computed value is wrapped with useMemo. The reason]]></summary>
-        <author>
-            <name>Olaleye Blessing</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Production Architecture for Small Language Model Fleets]]></title>
-        <id>6a32f3c20533dba8baa5af51</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-production-architecture-for-small-language-model-fleets/"/>
-        <updated>2026-06-17T19:21:38.000Z</updated>
-        <summary type="html"><![CDATA[Lately, there's been more focus on creating specialized Small Language Models (SLMs) for high-throughput, real-time applications. But we seem to be at an impasse: we excel at fine-tuning these models,]]></summary>
-        <author>
-            <name>Tejas Ashok</name>
         </author>
     </entry>
     <entry>
@@ -309,17 +322,6 @@ Astro Markdown Component Utility for Any Framework originally handwritten and pu
         <summary type="html"><![CDATA[Let’s kick off June — and the beginning of summer — with some fresh inspiration! Artists and designers from across the globe once again tickled their creativity to welcome the new month with a new collection of desktop wallpapers. Enjoy!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What’s !important #12: Safari Testing, ::checkmark, HTML Anchor Positioning, and More]]></title>
-        <id>https://css-tricks.com/?p=395357</id>
-        <link href="https://css-tricks.com/whats-important-12/"/>
-        <updated>2026-05-29T13:25:38.000Z</updated>
-        <summary type="html"><![CDATA[The old (testing in Safari when you don’t have Safari), the new (::checkmark), the in-between (anchor positioning but with HTML), and more.
-What’s !important #12: Safari Testing, ::checkmark, HTML Anchor Positioning, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
         </author>
     </entry>
     <entry>
