@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-11-17T05:22:28.810Z</id>
+    <id>urn:2026-11-18T04:50:03.824Z</id>
     <title>osmos::feed</title>
-    <updated>2026-11-17T05:22:28.810Z</updated>
+    <updated>2026-11-18T04:50:03.824Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Meet AI 2027 Conference (Dec 1)]]></title>
+        <id>https://smashingmagazine.com/2026/11/online-smashingconf-ai-2027/</id>
+        <link href="https://smashingmagazine.com/2026/11/online-smashingconf-ai-2027/"/>
+        <updated>2026-11-17T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Roll up your sleeves! Meet shiny new [AI 2027 Conference](https://smashingconf.com/ai-2027-conference), a friendly online conference on AI-ready design systems, AI + Figma and AI design patterns. What to expect in 2027 and where teams are getting AI right. [Jump to tickets.](https://smashingconf.com/ai-2027-conference/registration)]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Iris Lješnjanin)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Sped Up The Build: How Can Accessibility Testing Keep Up?]]></title>
+        <id>https://smashingmagazine.com/2026/11/ai-sped-up-build-how-can-accessibility-testing-keep-up/</id>
+        <link href="https://smashingmagazine.com/2026/11/ai-sped-up-build-how-can-accessibility-testing-keep-up/"/>
+        <updated>2026-11-17T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[AI has sped up how teams design and build, but quality assurance (QA) testing hasn’t kept pace, and the web may be getting less accessible. Drawing on new research, Andrew Chung explains what separates the teams whose accessibility efforts are keeping up, and how to embed human judgment into AI-enabled workflows without slowing delivery.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Andrew Chung)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build an NLP Pipeline in Python to Analyze Therapy Progress Notes]]></title>
         <id>6afba1044c9d975934925ee6</id>
@@ -26,6 +46,17 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Staggering Scroll-Driven Animations with animation-range-start]]></title>
+        <id>https://css-tricks.com/?p=395816</id>
+        <link href="https://css-tricks.com/staggering-scroll-driven-animations-with-animation-range-start/"/>
+        <updated>2026-11-16T16:47:05.000Z</updated>
+        <summary type="html"><![CDATA[Imagine a CSS karaoke machine that displays a ball bouncing on text that incrementally highlights, based on progress through via speech recognition and running that kind of animation as a single predictable, holistic effect driven by one progress value.
+Staggering Scroll-Driven Animations with animation-range-start originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Lee Meyer</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Build and Train a GLM-5.3-Flash Model From Scratch with Python]]></title>
         <id>6af88630044134836d5c4f7d</id>
         <link href="https://www.freecodecamp.org/news/build-and-train-a-glm-53-flash-model-from-scratch-with-python/"/>
@@ -33,6 +64,17 @@
         <summary type="html"><![CDATA[GLM-5.3-Flash combines linear and sparse attention, a mixture-of-experts design, and manifold constrained hyperconnections. A scaled-down version with 25 million parameters can be built in Python and]]></summary>
         <author>
             <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10 Big Ol’ 2027 Black Friday Deals]]></title>
+        <id>https://css-tricks.com/?p=397800</id>
+        <link href="https://css-tricks.com/2027-front-end-black-friday-deals/"/>
+        <updated>2026-11-13T14:05:24.000Z</updated>
+        <summary type="html"><![CDATA[A big ol' roundup of Black Friday deals on front-end courses from the best independent publishers and educators in the business.
+10 Big Ol’ 2027 Black Friday Deals originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>
@@ -66,6 +108,17 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Beyond 12 Columns: Designing Layouts With Personality]]></title>
+        <id>https://css-tricks.com/?p=397598</id>
+        <link href="https://css-tricks.com/beyond-12-columns/"/>
+        <updated>2026-11-12T16:06:55.000Z</updated>
+        <summary type="html"><![CDATA[Too many websites look alike. They use familiar layouts, repeat the same patterns, and often leave little impression once you’ve moved on. Andy Clarke explores how understanding a company’s story can lead to more distinctive designs, using modular and compound grids to create layouts with character.
+Beyond 12 Columns: Designing Layouts With Personality originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Andy Clarke</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Should You Actually Add AI To That? A Four-Question Audit For Product Teams]]></title>
         <id>https://smashingmagazine.com/2026/11/should-you-add-ai-audit-product-teams/</id>
         <link href="https://smashingmagazine.com/2026/11/should-you-add-ai-audit-product-teams/"/>
@@ -73,6 +126,17 @@
         <summary type="html"><![CDATA[An AI feature can save users time on a task, only for them to spend it checking the results. This practical audit helps product teams decide where AI earns its place and what users need to verify its output.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Victor Yocco)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Optimization: Is Using Declarations Just Once (UDJO) Still Effective Today?]]></title>
+        <id>https://css-tricks.com/?p=396572</id>
+        <link href="https://css-tricks.com/css-using-declarations-just-once/"/>
+        <updated>2026-11-10T16:42:18.000Z</updated>
+        <summary type="html"><![CDATA[Is the technique inspired by the DRY principle by identifying and reducing (if not eliminating) CSS declaration repetition still a relevant optimization strategy?
+CSS Optimization: Is Using Declarations Just Once (UDJO) Still Effective Today? originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Jens Oliver Meiert</name>
         </author>
     </entry>
     <entry>
@@ -96,6 +160,17 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[CSS-Tricks, Version 20]]></title>
+        <id>https://css-tricks.com/?p=397812</id>
+        <link href="https://css-tricks.com/css-tricks-version-20/"/>
+        <updated>2026-11-09T15:49:48.000Z</updated>
+        <summary type="html"><![CDATA[Things look a little different around here? I hope so because we just pushed a site redesign! Here's everything new with the 20th(!!) version of CSS-Tricks.
+CSS-Tricks, Version 20 originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How to Build a PDF Storyboard Generator Using JavaScript]]></title>
         <id>6aee2d6e123f77519047915d</id>
         <link href="https://www.freecodecamp.org/news/build-pdf-storyboard-generator-javascript/"/>
@@ -103,6 +178,17 @@
         <summary type="html"><![CDATA[PDF files are commonly used to share presentations, scripts, reports, lesson materials, comic pages, and other visual documents. But reviewing a long PDF page by page can take time, especially when so]]></summary>
         <author>
             <name>Bhavin Sheth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RSS Club: CSS-Tricks Redesign Preview]]></title>
+        <id>https://css-tricks.com/?p=397890</id>
+        <link href="https://css-tricks.com/css-tricks-redesign-preview/"/>
+        <updated>2026-11-06T18:52:59.000Z</updated>
+        <summary type="html"><![CDATA[Hey you wonderful RSS subscribers! We just soft-pushed a site redesign and wanted to give ya'll the first heads-up. A full write-up is coming but here are the high-level details.
+RSS Club: CSS-Tricks Redesign Preview originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>
@@ -126,6 +212,17 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Taming Typography: Building a Modern CSS Reset]]></title>
+        <id>https://css-tricks.com/?p=396817</id>
+        <link href="https://css-tricks.com/taming-typography-modern-css-reset/"/>
+        <updated>2026-11-05T14:55:31.000Z</updated>
+        <summary type="html"><![CDATA[Stu created tidy-typography.css: a style reset for taming typography with modern CSS features for everything from fluid typography and vertical rhythm, to hyphens and variable fonts.
+Taming Typography: Building a Modern CSS Reset originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Stu Robson</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Making Immersive LLM Chat Experiences More Accessible]]></title>
         <id>https://smashingmagazine.com/2026/11/making-immersive-llm-chat-experiences-more-accessible/</id>
         <link href="https://smashingmagazine.com/2026/11/making-immersive-llm-chat-experiences-more-accessible/"/>
@@ -133,6 +230,28 @@
         <summary type="html"><![CDATA[As LLM chat patterns become more widespread, making them accessible is essential to ensuring everyone can access the information, tools, and opportunities they offer. Drawing on his work improving these interfaces, Eric Bailey shares practical ways to make chat-based experiences on the web more accessible and usable for people who rely on assistive technology.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Eric Bailey)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smashing AI Conference]]></title>
+        <id>https://css-tricks.com/?p=397777</id>
+        <link href="https://css-tricks.com/smashing-ai-conference/"/>
+        <updated>2026-11-04T15:02:51.000Z</updated>
+        <summary type="html"><![CDATA[The AI 2027 Conference is a live online day for designers and engineers on where AI stands today, what to expect in 2027, and where teams are getting it right.
+Smashing AI Conference originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re-Implementing :nth-child() With Modern CSS]]></title>
+        <id>https://css-tricks.com/?p=397741</id>
+        <link href="https://css-tricks.com/re-implementing-nth-child-with-modern-css/"/>
+        <updated>2026-11-03T14:50:32.000Z</updated>
+        <summary type="html"><![CDATA[Combining :nth-child with style queries and sibling-index() to conditionally select child elements.
+Re-Implementing :nth-child() With Modern CSS originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Temani Afif</name>
         </author>
     </entry>
     <entry>
@@ -146,6 +265,17 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[What’s !important #20: GTA 6 Scroll Effects, Scrollspies, random()]]></title>
+        <id>https://css-tricks.com/?p=397698</id>
+        <link href="https://css-tricks.com/whats-important-20/"/>
+        <updated>2026-11-02T15:06:07.000Z</updated>
+        <summary type="html"><![CDATA[This is the final issue of What’s !important on CSS-Tricks.com. The good news is that it’s coming back in an expanded form as the CSS-Tricks newsletter. I had ya there for a second, didn’t I? Sorry, I couldn’t decide whether to trick or treat, so I went for both. Happy Halloween
+What’s !important #20: GTA 6 Scroll Effects, Scrollspies, random() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[A Spark Of Color In November’s Gray (2026 Wallpapers Edition)]]></title>
         <id>https://smashingmagazine.com/2026/10/desktop-wallpaper-calendars-november-2026/</id>
         <link href="https://smashingmagazine.com/2026/10/desktop-wallpaper-calendars-november-2026/"/>
@@ -153,6 +283,39 @@
         <summary type="html"><![CDATA[Let’s kick of November with a new collection of desktop wallpapers! Designed by creatives from across the globe, the wallpapers come in a variety of screen resolutions and can be downloaded for free. Enjoy!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Frankenstein Table]]></title>
+        <id>https://css-tricks.com/?p=397546</id>
+        <link href="https://css-tricks.com/the-frankenstein-table/"/>
+        <updated>2026-10-29T13:47:08.000Z</updated>
+        <summary type="html"><![CDATA[A super scary way to go about tables using other layout techniques, like CSS Grid.
+The Frankenstein Table originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Preethi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s !important #19: CSS Refraction Effects, Scroll State Queries, @custom-media, and More]]></title>
+        <id>https://css-tricks.com/?p=396840</id>
+        <link href="https://css-tricks.com/whats-important-19/"/>
+        <updated>2026-10-27T15:09:16.000Z</updated>
+        <summary type="html"><![CDATA[We’re back! Don't worry, this isn’t a trick (despite what our name suggests!). However, due to the hiatus, we're also a little behind. That’s why this issue of What’s !important is absolutely stacked. All killer, no filler. Here's what you missed.
+What’s !important #19: CSS Refraction Effects, Scroll State Queries, @custom-media, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS-Tricks has a new owner!]]></title>
+        <id>https://css-tricks.com/?p=397227</id>
+        <link href="https://css-tricks.com/css-tricks-has-a-new-owner/"/>
+        <updated>2026-10-26T15:29:36.000Z</updated>
+        <summary type="html"><![CDATA[Yes, I've got the keys to the castle, so to speak. And, even after 12 years of working on the site, I'll admit I'm a little overwhelmed and nervous about that.
+CSS-Tricks has a new owner! originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>
